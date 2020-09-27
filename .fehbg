@@ -1,0 +1,2 @@
+#!/bin/sh
+feh --no-fehbg --bg-scale '/home/ddnomad/pictures/wallpapers/lain_02_edited.jpg' 
