@@ -7,7 +7,7 @@ test -f ~/.Xmodmap && xmodmap ~/.Xmodmap
 # Dynamically set natural scrolling for my touchapad 
 # NOTE: xmodmap approach does not work for Electron applications
 # because Electron is a great way of writing desktop apps
-xinput --set-int-prop 11 "libinput Natural Scrolling Enabled" 8 1
+mxergoconf
 
 # Reduce keyboard repeat delay
 xset r rate 300 25
