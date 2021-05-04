@@ -1,4 +1,4 @@
-- [ ] `.bash/`
+- [X] `.bash/`
 - [ ] `.cargo/`
 - [ ] `.config/`
 - [ ] `.docs/`
