@@ -1,0 +1,16 @@
+- [ ] `.bash/`
+- [ ] `.cargo/`
+- [ ] `.config/`
+- [ ] `.docs/`
+- [X] `.github/`
+- [ ] `.shell/`
+- [ ] `.various/`
+- [ ] `pictures/wallpapers/`
+- [ ] `scripts/`
+- [ ] `.Xmodmap`
+- [ ] `.Xresources`
+- [ ] `.bash_completion`
+- [ ] `.bash_profile`
+- [ ] `.bashrc`
+- [ ] `.inputrc`
+- [ ] `.xinitrc`
