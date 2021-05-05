@@ -1,11 +1,12 @@
+- [ ] branch `diverged/arch-host`
 - [X] `.bash/`
-- [ ] `.cargo/`
+- [X] `.cargo/`
 - [ ] `.config/`
-- [ ] `.docs/`
+- [X] `.docs/`
 - [X] `.github/`
-- [ ] `.shell/`
-- [ ] `.various/`
-- [ ] `pictures/wallpapers/`
+- [X] `.shell/`
+- [X] `.various/`
+- [X] `pictures/wallpapers/`
 - [ ] `scripts/`
 - [ ] `.Xmodmap`
 - [ ] `.Xresources`
