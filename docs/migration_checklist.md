@@ -1,17 +1,17 @@
-- [ ] branch `diverged/arch-host`
+- [X] branch `diverged/arch-host`
 - [X] `.bash/`
 - [X] `.cargo/`
-- [ ] `.config/`
+- [X] `.config/`
 - [X] `.docs/`
 - [X] `.github/`
 - [X] `.shell/`
 - [X] `.various/`
 - [X] `pictures/wallpapers/`
-- [ ] `scripts/`
-- [ ] `.Xmodmap`
-- [ ] `.Xresources`
-- [ ] `.bash_completion`
-- [ ] `.bash_profile`
-- [ ] `.bashrc`
-- [ ] `.inputrc`
-- [ ] `.xinitrc`
+- [X] `scripts/`
+- [X] `.Xmodmap`
+- [X] `.Xresources`
+- [X] `.bash_completion`
+- [X] `.bash_profile`
+- [X] `.bashrc`
+- [X] `.inputrc`
+- [X] `.xinitrc`
