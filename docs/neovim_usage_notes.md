@@ -24,3 +24,7 @@ Shortcuts You Forgot
 - `<C-L>` - Go to a split on the right
 - `<C-J>` - Go to a next buffer
 - `<C-K>` - Go to a previous buffer
+- https://github.com/tpope/vim-surround - all of it, specifically `yss'`. Also need a plugin for:
+  * Visual selection
+  * Surround each line with quotes
+  * Or surround each line with `'<line>',`
